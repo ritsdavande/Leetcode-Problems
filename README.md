@@ -1,2 +1,3 @@
-This folder is linking with profile https://leetcode.com/u/ritsdavande/. 
-     shortly,it is my Leetcode-gfg Folder.
+It is my Leetcode-gfg Folder and
+it linking with profile https://leetcode.com/u/ritsdavande/. 
+    
